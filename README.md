@@ -1,4 +1,4 @@
-An Extension to my [SEM-4 DBMS Project](https://github.com/Ishaan453/SEM-4-DBMS-Project), a Java Netbeans application. It is a demo Hospital's Patient Module where a Patient needs to Login using their Patient_ID and DOB to access the Hospital's menu.<br>
+A Java Netbeans application. It is a demo Hospital's Patient Module where a Patient needs to Login using their Patient_ID and DOB to access the Hospital's menu.<br>
 <img width="439" alt="image" src="https://github.com/Ishaan453/Hospital-Management/assets/79138066/1bdef8c0-2d8c-41fb-ad9a-9948d2de95f1">
 <img width="398" alt="image" src="https://github.com/Ishaan453/Hospital-Management/assets/79138066/ee208b00-637f-4cba-8fc7-ee5612e62e6a">
 <br>
